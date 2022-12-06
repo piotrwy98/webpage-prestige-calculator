@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebpagePrestigeCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "10 macierz.txt"
+    }
+  }
+}
